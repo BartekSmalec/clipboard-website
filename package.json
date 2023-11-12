@@ -1,0 +1,24 @@
+{
+  "name": "clipboard-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwindcss -i ./src/style.css -o ./public/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BartekSmalec/clipboard-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BartekSmalec/clipboard-website/issues"
+  },
+  "homepage": "https://github.com/BartekSmalec/clipboard-website#readme",
+  "dependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
