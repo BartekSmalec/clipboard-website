@@ -15,3 +15,6 @@
   @tailwind components;
   @tailwind utilities;`
 * `npm run build`
+
+![screencapture-localhost-63342-clipboard-website-public-index-html-2023-12-03-23_06_06.png](screenshots%2Fscreencapture-localhost-63342-clipboard-website-public-index-html-2023-12-03-23_06_06.png)
+![screencapture-localhost-63342-clipboard-website-public-index-html-2023-12-03-23_06_58.png](screenshots%2Fscreencapture-localhost-63342-clipboard-website-public-index-html-2023-12-03-23_06_58.png)
